@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Supermodule
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Our mission is to build unique and exclusive blockchain services that have real value.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/SUPERMODULE-IO/website/88ebbc46e2dd4ff462ae85d9655b64b9609e6db3/assets/logos/SM_logo_red.svg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: vyvakz
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://www.supermodule.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
